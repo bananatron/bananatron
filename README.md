@@ -11,6 +11,7 @@ Startup dude, LLM puppeteer, and compulsive maker.
 - 🕕 [EZ Time Tracker](https://bananatron.github.io/ez-time-tracker/) [Simple, client-side time tracker]
 - 🚗 [toadstick.shop](https://toadstick.shop/) [Where I sell bumper stickers]
 - 🎲 [TownScryer](https://www.townscryer.com/) [An AI game master]
+- ♦ [Obelisk](https://obelisk.li) [Back-office AI agents for real work]
 
 ### Games
 - 🧟 [Blightwood MUD](https://www.blightwood.online/) [AI-driven MUD set in the postapocalyptic gold-rush]
