@@ -14,6 +14,7 @@ Startup dude, LLM puppeteer, and compulsive maker.
 - ♦ [Obelisk](https://obelisk.li) [Back-office AI agents for real work]
 
 ### Games
+- 💧 [Ooze Saga](https://oozesaga.com/) [PBBG about collecting and battling with Oozes]
 - 🧟 [Blightwood MUD](https://www.blightwood.online/) [AI-driven MUD set in the postapocalyptic gold-rush]
 - 🧑‍🧒‍🧒 [Two Zero One Five (Game)](https://pookyduck.itch.io/two-zero-one-five) [Narrative story about isolation]
 - 🎾 [Plato](https://spenser.itch.io/plato) [Point-and-click about a tennis playing robot]
